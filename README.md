@@ -13,3 +13,5 @@
 ### コンポーネントについて
 
 #### Functional と　Class
+
+#### props　と　stateについて
