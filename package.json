@@ -9,7 +9,7 @@
     "babel-loader": "^8.0.6",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
